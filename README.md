@@ -1,5 +1,4 @@
 <h1><b>Full-stack-coffee-shop-with-dashboard</b></h1>
-<hr>
 
 <p>Fully functional coffee shop made using PHP with dashboard to upload goods and update settings.</p>
 
@@ -21,7 +20,7 @@
 
 <ul>
 <li>Full paypal check out (creditcard etc)</li>
-<li>Fully flaged dashboard</li
+<li>Fully flaged dashboard</li>
 <li>Admin able to add items and other uploads through dashboard</li>
 <li>Email subscription</li>
 <li>admin and users details details</li>
@@ -33,18 +32,19 @@
 
 Username - admin Password - admin
 
-<h1><b>Handle dashboard with care. Componets deleted via the dashboard cannot be recovered</b></h1>
+
+<h3><b>Note: Handle dashboard with care. Componets deleted via the dashboard cannot be recovered</b></h3>
 <hr>
 
-<h3><b>Every thing is included including sample images just clone or download zip</b></h3>
+<h3><b>Everything is included including sample images just clone or download zip</b></h3>
 <hr>
 
 <h3><b>N/B if you are unable to run this project on your own dm me via linkedin</b></h3>
 <hr>
 
-https://www.linkedin.com/in/peter-kimanzi-002299206/
+www.linkedin.com/in/muhammaduzairali/
 
-<h4><b></b>don't forget to star repo</b></h4>
+<h3><b>Don't forget to star repo</b></h4>
 <hr>
 
 <h2>Enjoy!</h2>
