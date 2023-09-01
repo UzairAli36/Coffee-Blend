@@ -1,27 +1,50 @@
-Full-stack-coffee-shop-with-dashboard
-Fully functional coffee shop made using PHP with dashboard to upload goods and update settings.
+<h1><b>Full-stack-coffee-shop-with-dashboard</b></h1>
+<hr>
 
-Technologies used
-PHP
-HTML
-CSS
-JavaScript
-My SQL
-PDO
-Bootstrap
+<p>Fully functional coffee shop made using PHP with dashboard to upload goods and update settings.</p>
 
-Functionalities
-Full check out (creditcard etc)
-Fully flaged dashboard
-Admin able to add items and other uploads through dashboard
-Email subscription
-admin details
+<h3><b>Technologies used</b></h3>
+<hr>
+
+<ul>
+<li>PHP</li>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>JavaScript</li>
+<li>MySQL</li>
+<li>PDO</li>
+<li>Bootstrap</li>
+</ul>
+
+<h3><b>Functionalities</b></h3>
+<hr>
+
+<ul>
+<li>Full paypal check out (creditcard etc)</li>
+<li>Fully flaged dashboard</li
+<li>Admin able to add items and other uploads through dashboard</li>
+<li>Email subscription</li>
+<li>admin and users details details</li>
+<li>Asking reviews about products from users</li>
+</ul>
+
+<h3><b>Admin Details</b></h3>
+<hr>
+
 Username - admin Password - admin
 
-Handle dashboard with care. Componets deleted via the dashboard cannot be recovered
-Every thing is included including sample images just clone or download zip
-N/B if you are unable to run this project on your own dm me via linkedin
+<h1><b>Handle dashboard with care. Componets deleted via the dashboard cannot be recovered</b></h1>
+<hr>
+
+<h3><b>Every thing is included including sample images just clone or download zip</b></h3>
+<hr>
+
+<h3><b>N/B if you are unable to run this project on your own dm me via linkedin</b></h3>
+<hr>
+
 https://www.linkedin.com/in/peter-kimanzi-002299206/
 
-don't forget to star repo
-Enjoy!
+<h4><b></b>don't forget to star repo</b></h4>
+<hr>
+
+<h2>Enjoy!</h2>
