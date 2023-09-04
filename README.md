@@ -1,6 +1,6 @@
 <h1><b>Full-stack-coffee-shop-with-dashboard</b></h1>
 
-<p>Fully functional coffee shop made using PHP with dashboard to upload goods and update settings.</p>
+<p>Fully functional coffee shop made using PHP, HTML, CSS, Javascript with MySQL to upload goods and update settings.</p>
 
 <h3><b>Technologies used</b></h3>
 <hr>
