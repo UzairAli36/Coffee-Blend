@@ -1,6 +1,6 @@
-<h1><b>Full-stack-Job-Board-dashboard</b></h1>
+<h1><b>Full-stack-Coffee-Shop-System-dashboard</b></h1>
 
-<p>Fully functional Job system made using PHP, HTML, CSS, Javascript with MySQL to upload goods and update settings.</p>
+<p>Fully functional Online Coffee Shop made using PHP, HTML, CSS, Javascript with MySQL to upload goods and update settings.</p>
 
 <h3><b>Technologies used</b></h3>
 <hr>
@@ -19,13 +19,12 @@
 <hr>
 
 <ul>
-<li>Complete Authentication System</li>
+<li>Full paypal check out (creditcard etc)</li>
 <li>Fully flaged dashboard</li>
 <li>Admin able to add items and other uploads through dashboard</li>
-<li>Limiting the user ability to access sensitive data by protecting it</li>
-<li>Setting up layers and layers of validations for various profiles on web app</li>
-<li>Created a full profile system and learn to update it like a pro</li>
-<li>Created a category system</li>
+<li>Email subscription</li>
+<li>admin and users details details</li>
+<li>Asking reviews about products from users</li>
 </ul>
 
 <h3><b>Admin Details</b></h3>
